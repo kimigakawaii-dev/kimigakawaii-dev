@@ -20,7 +20,7 @@ AI • Web • Mobile
 📱 Mobile Development
 🌐 Web Development
 
-![](https://komarev.com/ghpvc/?username=kimigakawaii-dev&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=kimigakawaii-dev&style=flat-square&color=blue)
 
 </td>
 
