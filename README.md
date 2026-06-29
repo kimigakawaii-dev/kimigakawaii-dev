@@ -5,3 +5,5 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=kimigakawaii-dev&theme=tokyonight&hide_border=true"/>
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y11MEFBR)
