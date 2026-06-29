@@ -12,7 +12,6 @@
 </td>
 
 <td width="30%" align="center">
-
 ## Seiz
 AI • Web • Mobile
 
